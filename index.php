@@ -17,7 +17,7 @@
   <label for="lname">Lastname:</label><br>
   <input type="text" id="lname" name="lname" value=""><br><br>
   <input type="submit" value="Submit"><br><br>
-  <label for="email">Enter your email:</label><br>
+  <label class="blanc" for="email">Enter your email:</label><br>
   <input type="email" id="email" name="email"><br><br>
   <input type="submit"value="Submit">
 </form> 

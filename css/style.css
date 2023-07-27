@@ -1,0 +1,31 @@
+body{
+ 
+
+}
+
+div {
+  width: 30%;
+  justify-content: center;
+  border-style: dashed solid;
+  margin: auto;
+  height: 400px;
+  /* background-color:greenyellow; */
+  background-image: url("../img/arbre_white.jpg");
+  margin-top: 30px;
+ 
+}
+
+div h1{
+    text-align: center;
+}
+
+form{
+margin: auto;
+width: 30%;
+
+}
+
+label{font-style: oblique;
+color: black;
+
+}
